@@ -4,4 +4,6 @@ int main(){
     int a=5;
 int b=6;
 cout<<a-b;
+int c=10;
+cout<<c-b;
 }
